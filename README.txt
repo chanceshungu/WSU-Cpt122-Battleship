@@ -1,9 +1,9 @@
 Video Demo: https://youtube.com/shorts/DdxeVWeGm_4?si=UE5CaM7y9O-Y7Y_I
 
 Team Members:
-- Chance Shungu, Section 12
-- Joshua Leon Ortiz, Section 11
-- Kwadwo Afriyie, Section 10
+- Chance Shungu
+- Joshua Leon Ortiz
+- Kwadwo Afriyie
 Game:
 -Battleship with multiplayer
 -Randomly placed ships
